@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421362029398",
+    "project_id": "cgv-2022",
+    "storage_bucket": "cgv-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421362029398:android:5c9ed9c6fd81a9ad873cf7",
+        "android_client_info": {
+          "package_name": "com.example.reciperandomiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421362029398-puvft1nqeegibs3jv9nc7jd3ts9vq6pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqXr3VGMr0tIh2nJ4XJReM6u4fRGZ-Mkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421362029398-puvft1nqeegibs3jv9nc7jd3ts9vq6pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
